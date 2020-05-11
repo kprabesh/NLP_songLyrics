@@ -9,7 +9,6 @@
 [![Repo-Size](https://img.shields.io/github/repo-size/kprabesh/NLP_songlyrics.svg)](../../archive/master.zip)
 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/HollowMan6/Smart-Chatting-Robot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kprabesh/NLP_songlyrics/alerts/)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/kprabesh/NLP_songlyrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kprabesh/NLP_songlyrics/context:python)
 
 
 # NLP_songLyrics
