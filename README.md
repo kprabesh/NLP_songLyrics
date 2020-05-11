@@ -1,17 +1,17 @@
 [![last-commit](https://img.shields.io/github/last-commit/kprabesh/NLP_songlyrics)](../../graphs/commit-activity)
-[![release-date](https://img.shields.io/github/release-date/HollowMan6/Smart-Chatting-Robot)](../../releases)
+[![release-date](https://img.shields.io/github/release-date/kprabesh/NLP_songlyrics)](../../releases)
 
-[![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
-[![watchers](https://img.shields.io/github/watchers/HollowMan6/Smart-Chatting-Robot?style=social)](../../watchers)
-[![stars](https://img.shields.io/github/stars/HollowMan6/Smart-Chatting-Robot?style=social)](../../stargazers)
-[![forks](https://img.shields.io/github/forks/HollowMan6/Smart-Chatting-Robot?style=social)](../../network/members)
+[![Followers](https://img.shields.io/github/followers/kprabesh?style=social)](https://github.com/kprabesh?tab=followers)
+[![watchers](https://img.shields.io/github/watchers/kprabesh/NLP_songlyricsdv?style=social)](../../watchers)
+[![stars](https://img.shields.io/github/stars/kprabesh/NLP_songlyrics?style=social)](../../stargazers)
+[![forks](https://img.shields.io/github/forks/kprabesh/NLP_songlyrics?style=social)](../../network/members)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hollowman6.github.io/fund.html)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://kprabesh.github.io/fund.html)
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
-[![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/Smart-Chatting-Robot.svg)](../../archive/master.zip)
+[![Repo-Size](https://img.shields.io/github/repo-size/kprabesh/NLP_songlyrics.svg)](../../archive/master.zip)
 
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/HollowMan6/Smart-Chatting-Robot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HollowMan6/Smart-Chatting-Robot/alerts/)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/HollowMan6/Smart-Chatting-Robot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HollowMan6/Smart-Chatting-Robot/context:python)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/HollowMan6/Smart-Chatting-Robot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kprabesh/NLP_songlyrics/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/kprabesh/NLP_songlyrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kprabesh/NLP_songlyrics/context:python)
 
 
 # NLP_songLyrics
