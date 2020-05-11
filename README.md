@@ -1,3 +1,13 @@
+[![last-commit](https://img.shields.io/github/last-commit/kprabesh/NLP_songlyrics)](../../graphs/commit-activity)
+
+[![Followers](https://img.shields.io/github/followers/kprabesh?style=social)](https://github.com/kprabesh?tab=followers)
+[![watchers](https://img.shields.io/github/watchers/kprabesh/NLP_songlyrics?style=social)](../../watchers)
+[![stars](https://img.shields.io/github/stars/kprabesh/NLP_songlyrics?style=social)](../../stargazers)
+[![forks](https://img.shields.io/github/forks/kprabesh/NLP_songlyrics?style=social)](../../network/members)
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://kprabesh.github.io/fund.html)
+[![Repo-Size](https://img.shields.io/github/repo-size/kprabesh/NLP_songlyrics.svg)](../../archive/master.zip)
+
 # NLP_songLyrics
 This is a walkthrough for NLP. 
 
