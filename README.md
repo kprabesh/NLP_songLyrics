@@ -8,7 +8,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://kprabesh.github.io/fund.html)
 [![Repo-Size](https://img.shields.io/github/repo-size/kprabesh/NLP_songlyrics.svg)](../../archive/master.zip)
 
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/HollowMan6/Smart-Chatting-Robot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kprabesh/NLP_songlyrics/alerts/)
 
 
 # NLP_songLyrics
