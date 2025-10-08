@@ -11,7 +11,6 @@
 
 
 # NLP_songLyrics
-This is a walkthrough for NLP. 
 
 The scope of this project is to compare top 5 hiphop song lyrics of 2020 to top song lyrics of 2017.
 
